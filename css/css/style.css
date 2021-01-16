@@ -960,7 +960,6 @@ p {
 
 .heading-frame {
   padding: 38px 50px;
-  border: 5px solid #111;
   display: inline-block;
 }
 
@@ -2744,7 +2743,7 @@ input.searchbox:focus {
 /* Intro
 -------------------------------------------------------*/
 .section-wrap.intro {
-  padding: 170px 0 150px;
+  padding: 170px 0 0px;
 }
 
 .intro.style-2 .intro-text p {

@@ -154,7 +154,8 @@
   }
 
   .navbar-nav .open .dropdown-menu > li > a {
-    color: #7a7a7a;
+    color: #000000;
+    font-family: "Montserrat", sans-serif;
   }
 
   .navbar-nav .open .dropdown-menu > li > a:focus {
@@ -162,7 +163,8 @@
   }
 
   .navbar-nav .open .dropdown-menu > li > a:hover {
-    color: #bfa67a;
+    color: #000000;
+    font-family: "Montserrat", sans-serif;
   }
 
   .navbar-nav > li > a.nav-search {

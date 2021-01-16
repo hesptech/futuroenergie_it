@@ -34,7 +34,7 @@ a,
 .navbar-nav > .active > a:focus,
 .navbar-nav > .active > a:hover,
 .menu-socials li > a:hover {
-	color: #bfa67a !important;
+	color: #ffffff !important;
 }
 
 
@@ -60,5 +60,5 @@ textarea:focus {
 }
 
 .dropdown-menu {
-	border-top-color: #bfa67a;
+	border-top-color: #000000;
 }

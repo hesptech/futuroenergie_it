@@ -29,7 +29,16 @@
 }
 
 .section-wrap, .section-wrap-mp {
-  padding: 150px 0;
+  padding: 150px 0 0;
+  overflow: hidden;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+.section-wrap-two, .section-wrap-mp-two {
+  padding: 100px 0;
   overflow: hidden;
   background-attachment: fixed;
   background-size: cover;

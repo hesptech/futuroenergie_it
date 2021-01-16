@@ -1652,7 +1652,8 @@ p {
 .gmap {
   position: relative;
   width: 100%;
-  height: 450px; }
+  /* height: 450px; */ 
+}
 
 #contact-form .message {
   height: 50px;
